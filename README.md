@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on my own **fully functional netflix-clone** 
 - 🌱 I’m currently learning **Nodejs testing** 
 - 📫 You can reach me at **adriendedecker@yahoo.fr**
-- 📄 Wanna know more ? [My resume](https://github.com/AdriendeDecker/AdriendeDecker/blob/main/Adrien_de_Decker.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
